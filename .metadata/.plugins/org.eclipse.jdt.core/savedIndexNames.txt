@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\josei\Desktop\EDIX-1_DAM\EDIX-EEDD\WorkspaceEEDD\Repo1Actividad1\.metadata\.plugins\org.eclipse.jdt.core

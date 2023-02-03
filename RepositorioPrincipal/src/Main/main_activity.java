@@ -1,6 +1,7 @@
 package Main;
 
 import Hugo.hugo;
+import Ignacio.Ignacio;
 import Jorge.jorge;
 
 public class main_activity {
@@ -12,6 +13,8 @@ public class main_activity {
 		jorge.imprimirNombre();
 		hugo hugo = new hugo();
 		hugo.imprimirNombre();
+		Ignacio ignacio = new Ignacio();
+		ignacio.imprimirNombre();
 	}
 
 }
